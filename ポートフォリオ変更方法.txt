@@ -1,8 +1,0 @@
-C:\Users\rika->cd portfolio
-
-C:\Users\rika-\portfolio>git add index.html
-
-C:\Users\rika-\portfolio>git commit -m "update index.html"
-
-C:\Users\rika-\portfolio>git push origin master
-
